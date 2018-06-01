@@ -1,0 +1,14 @@
+{
+  "name": "mono",
+  "version": "0.0.1",
+  "description": "A framework visual da apollus baseada no bootstrap + material.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Thiago",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  }
+}
